@@ -11,3 +11,22 @@ With this template you'll get a basic project setup:
 3. Setup a basic frontend template and (HTML, CSS, JS) 
 
 (Under construction..)
+
+## How to use
+
+To launch this app:
+
+1. Clone the repository and run:
+
+```
+cd flask-webapp-template
+python app.py
+```
+
+2. Access the generated URL
+
+### NOTES:
+
+If you don't have Flask installed, please run this command first:
+
+`pip install flask`
