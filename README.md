@@ -30,3 +30,7 @@ python app.py
 If you don't have Flask installed, please run this command first:
 
 `pip install flask`
+
+## YouTube video
+
+https://www.youtube.com/watch?v=ShoQlIb_fuE
